@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create Homepage",
+      "details": "Creating a homepage",
+      "complete": true
+    },
+    {
+      "title": "Integrate Database",
+      "details": "Database Integration to the application",
+      "complete": true,
+      "id": 2
+    },
+    {
+      "title": "Design the framework",
+      "details": "Make use of figma",
+      "complete": false,
+      "id": 3
+    }
+  ]
+}
